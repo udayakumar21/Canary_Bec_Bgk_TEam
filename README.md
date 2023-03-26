@@ -1,4 +1,10 @@
 # Canary_Bec_Bgk_TEam
+Team Name:642947-U2K4Y208
+Team Members are:
+1)Kaveri Angadi
+2)Mallikarjun Hiremath
+3)Rashmi Hiremath
+4)Udayakumar Hiremath
 Project Title
 
 Predicting soil moisture levels at a specific location based on
